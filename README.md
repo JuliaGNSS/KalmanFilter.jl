@@ -1,7 +1,7 @@
 
 [![Tests](https://github.com/JuliaGNSS/KalmanFilter.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/JuliaGNSS/KalmanFilter.jl/actions)
 [![codecov](https://codecov.io/gh/JuliaGNSS/KalmanFilter.jl/branch/master/graph/badge.svg?token=KCFJHJ4Q2T)](https://codecov.io/gh/JuliaGNSS/KalmanFilter.jl)
-# KalmanFilter.jl
+# KalmanFilter.jl [DEPRECATED in favor of [KalmanFilters](https://github.com/JuliaGNSS/KalmanFilters.jl)]
 Provides multiple Kalman Filters
 
 * (Square Root) Kalman Filter ((SR-)KF)
